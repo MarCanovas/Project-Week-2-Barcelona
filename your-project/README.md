@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Air quality in Barcelona
+*Mar Cánovas, Cristina Arias*
 
-*[Your Cohort, Campus & Date]*
+* Data Analytics, Barcelona, June 2020*
 
 ## Content
 - [Project Description](#project-description)
@@ -19,10 +19,18 @@
 Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
 
 ## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
+
+Questions:
+what gas proportion determines a good air quality?
+Which zones have a better air quality?
+At what time of day is air quality better?
+
+Hypotheses:
+If the station is located inside a green area, air quality is better.
+Air quality is better at night.
 
 ## Dataset
-What dataset (or datasets) did you use? What is the source of your data? Provide links to the data if available and describe the data briefly.
+Urban environment: air-quality-nov-2017 and air-stations-nov-2017
 
 ## Database
 What is the structure of your database? Have you created more than one table and if yes, how are they related to each other? Include a drawing or computer-generated image of the ERD (Entity Relationship Diagram) of your database.
