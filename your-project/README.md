@@ -3,7 +3,7 @@
 # Air quality in Barcelona
 *Mar Cánovas, Cristina Arias*
 
-* Data Analytics, Barcelona, June 2020*
+* Data Analytics, Barcelona, June 2020 *
 
 ## Content
 - [Project Description](#project-description)
@@ -20,12 +20,12 @@ Write a short introduction to your project: 3-5 sentences about the context of y
 
 ## Questions & Hypotheses
 
-Questions:
-what gas proportion determines a good air quality?
+### Questions:
+What gas proportion determines a good air quality?
 Which zones have a better air quality?
 At what time of day is air quality better?
 
-Hypotheses:
+### Hypotheses:
 If the station is located inside a green area, air quality is better.
 Air quality is better at night.
 
@@ -37,9 +37,11 @@ What is the structure of your database? Have you created more than one table and
 
 ## Workflow
 Outline the workflow you used in your project. What are the steps you went through?
+The workflow is described on the trello board linked bellow.
 
 ## Organization
 How did you organize your work? Did you use any tools like a kanban board?
+We used a kanban board made on trello.
 
 What does your repository look like? Explain your folder and file structure.
 
