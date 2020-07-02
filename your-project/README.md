@@ -15,7 +15,8 @@
 
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+Our project goal is to analyse the available data related to pollution and air quality from the city of Barcelona in November 2017. We will check for relations between times, values, stations and air quality in order to obtain some insights from the dataset.
+
 
 ## Questions & Hypotheses
 
