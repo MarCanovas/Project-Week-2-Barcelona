@@ -34,9 +34,6 @@ Urban environment:
 - air-quality-nov-2017 
 - air-stations-nov-2017
 
-## Database
-What is the structure of your database? Have you created more than one table and if yes, how are they related to each other? Include a drawing or computer-generated image of the ERD (Entity Relationship Diagram) of your database.
-
 ## Workflow
 Outline the workflow you used in your project. What are the steps you went through?
 The workflow is described on the trello board linked bellow.
