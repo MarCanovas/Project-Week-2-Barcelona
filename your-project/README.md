@@ -3,7 +3,7 @@
 # Air quality in Barcelona
 *Mar Cánovas, Cristina Arias*
 
-* Data Analytics, Barcelona, June 2020 *
+* Data Analytics, Barcelona, June 2020
 
 ## Content
 - [Project Description](#project-description)
