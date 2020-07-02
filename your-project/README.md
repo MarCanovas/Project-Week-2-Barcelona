@@ -9,7 +9,6 @@
 - [Project Description](#project-description)
 - [Questions & Hypotheses](#questions-hypotheses)
 - [Dataset](#dataset)
-- [Database](#database)
 - [Workflow](#workflow)
 - [Organization](#organization)
 - [Links](#links)
