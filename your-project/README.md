@@ -35,7 +35,6 @@ Urban environment:
 - air-stations-nov-2017
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
 The workflow is described on the trello board linked bellow.
 
 ## Organization
@@ -47,6 +46,6 @@ What does your repository look like? Explain your folder and file structure.
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/MarCanovas/Project-Week-2-Barcelona.git)  
+[Slides](https://slides.com/cris-arias/deck)  
+[Trello](https://trello.com/b/RHbzJP7f)  
