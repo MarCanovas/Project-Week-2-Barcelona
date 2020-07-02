@@ -21,18 +21,18 @@ Write a short introduction to your project: 3-5 sentences about the context of y
 ## Questions & Hypotheses
 
 ### Questions:
-> What gas proportion determines a good air quality?
-> Which zones have a better air quality?
-> At what time of day is air quality better?
+- What gas proportion determines a good air quality?
+- Which zones have a better air quality?
+- At what time of day is air quality better?
 
 ### Hypotheses:
-> If the station is located inside a green area, air quality is better.
-> Air quality is better at night.
+- If the station is located inside a green area, air quality is better.
+- Air quality is better at night.
 
 ## Dataset
 Urban environment: 
-> air-quality-nov-2017 
-> air-stations-nov-2017
+- air-quality-nov-2017 
+- air-stations-nov-2017
 
 ## Database
 What is the structure of your database? Have you created more than one table and if yes, how are they related to each other? Include a drawing or computer-generated image of the ERD (Entity Relationship Diagram) of your database.
